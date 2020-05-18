@@ -1,1 +1,12 @@
-
+*~
+*.o
+*.bak
+doc/output
+test/bluecom_connect/simple_menu
+*.tar.bz2
+*.tar.gz
+src/yocto
+src/ejdk*
+src/main/purifier_iot
+*.class
+downstream_connection
